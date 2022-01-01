@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MarkOltin.github.io/rsschool-cv/cv
